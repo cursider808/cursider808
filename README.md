@@ -17,7 +17,7 @@
 ---
 
 ```python
-class Arsen:
+class CURSIDER:
     def __init__(self):
         self.role = "Developer"
         self.languages = ["Python", "SQL", "C#"]
